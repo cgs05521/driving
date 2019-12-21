@@ -11,3 +11,5 @@ elif country == '美國':
 		print('你可以考美國駕照')
 	else:
 		print('你不能考美國駕照')
+else:
+	print('你只能輸入台灣或美國')
